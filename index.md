@@ -1,8 +1,8 @@
-﻿<!doctype html>
+<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>Кирилл Кочетков. If you are reading this it's too late!</title>
+<title>Кирилл Кочетков. If you are reading this it's too late.</title>
 <style type="text/css">
 <!--
 body {
@@ -10,7 +10,7 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #FFF;
-	background-image: src='wood%20_texture2.jpg');
+	background-image:url(wood%20_texture2.jpg);
 }
 
 ul, ol, dl { 
@@ -40,7 +40,7 @@ a:hover, a:active, a:focus {
 
 .container {
 	width: 1200px;
-	background-image:src='wood%20_texture2.jpg';
+	background-image: url(wood%20_texture2.jpg);
 	margin: 0 auto; 
 	overflow: hidden; 
 }
@@ -95,7 +95,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 -->
 </style></head>
 
-<body background="<img src='wood%20_texture2.jpg"/>
+<body background="wood _texture2.jpg" tracingsrc="wood _texture2.jpg" tracingopacity="100">
 
 <div class="container">
   <div class="sidebar1">
@@ -136,7 +136,7 @@ is all I want, f**k money, diamonds and bi**hes, don't need them.</p></ul>
       <li>Spanish language (Basic);</li>
       <li>Внимательность к деталям;</li>
       <li>Стрессоустойчивость;</li>
-      <li>Высокий уровень обучаемости.
+      <li>Высокий уровень обучаемости.<br>
       </li>
     </ol>
     <section id="photos">
@@ -146,9 +146,8 @@ is all I want, f**k money, diamonds and bi**hes, don't need them.</p></ul>
 <img src = 'photo2.jpg' name = 'photo2' width="200" height="250" />
 <img src = 'photo3.jpg' name ='photo3' width ="200" height="250" />
 <img src= 'photo4.jpg' name ='photo4' width="200" height="250" />
-</p>
-    <p>&nbsp;</p>
-    <section id="career">
+<section id="career">
+    </p>
     <h2>Карьера</h2>
     <p>Моя карьера еще скромная и достаточно тривиальна. Я только начал свою карьеру. Когда о ней будет что рассказать, то этот текст будет больше.</p>
     <section id="myfavvideo">
@@ -163,3 +162,4 @@ is all I want, f**k money, diamonds and bi**hes, don't need them.</p></ul>
   <!-- end .container --></div>
 </body>
 </html>
+
