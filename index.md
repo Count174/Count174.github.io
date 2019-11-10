@@ -10,7 +10,7 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #FFF;
-	background-image: url(../Users/IceJa/Documents/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%B1%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%202/wood%20_texture2.jpg);
+	background-image: src='wood%20_texture2.jpg');
 }
 
 ul, ol, dl { 
@@ -40,7 +40,7 @@ a:hover, a:active, a:focus {
 
 .container {
 	width: 1200px;
-	background-image:url(../Users/IceJa/Documents/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%B1%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%202/wood%20_texture2.jpg);
+	background-image:src='wood%20_texture2.jpg';
 	margin: 0 auto; 
 	overflow: hidden; 
 }
@@ -95,7 +95,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 -->
 </style></head>
 
-<body background="../Users/IceJa/Documents/Сайт без имени 2/wood _texture2.jpg" tracingsrc="../Users/IceJa/Documents/Сайт без имени 2/wood _texture2.jpg" tracingopacity="100">
+<body background="<img src='wood%20_texture2.jpg"/>
 
 <div class="container">
   <div class="sidebar1">
