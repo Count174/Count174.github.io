@@ -47,7 +47,7 @@ a:hover, a:active, a:focus {
 .sidebar1 {
 	float: left;
 	font:Verdana, Geneva, sans-serif;
-	width: 160px;
+	width: 2000px;
 	background-color: #000;
 	color: #FFF;
 	padding-bottom: 10px;
