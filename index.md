@@ -150,7 +150,7 @@ is all I want, f**k money, diamonds and bi**hes, don't need them.(Tyler, The Cre
     <p>Моя карьера еще скромная и достаточно тривиальна. Я только начал свою карьеру. Когда о ней будет что рассказать, то этот текст будет больше.</p>
     <section id="myfavvideo">
     <h2>Мой любимый музыкальный клип</h2>
-    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/NLZRYQMLDW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tvTRZJ-4EyI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </p>
 <h2>Мои социальные сети</h2>
 <div class="social"><a href="https://instagram.com/kochetkov26" target="_blank"><img src='icon1.png' width="96" height="94"></a>
