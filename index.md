@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0" />
 <title>Кирилл Кочетков. If you are reading this it's too late.</title>
 <style type="text/css">
 <!--
