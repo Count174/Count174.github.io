@@ -11,6 +11,18 @@ body {
 	color: #FFF;
 	background-image:src(wood%20_texture2.jpg);
 }
+wrapper {
+    width: 96%;    
+    max-width: 920px;
+    margin: auto;
+    padding: 2%;
+    } 
+
+    main {
+        width: 60%;
+        margin-right: 5%;
+        float: left;
+        }        
 
 ul, ol, dl { 
 	padding: 0;
@@ -95,7 +107,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 </style></head>
 
 <body background="wood _texture2.jpg" tracingsrc="wood _texture2.jpg" tracingopacity="100">
-
+<div id="wrapper">
 <div class="container">
   <div class="sidebar1">
     <ul class="nav">
@@ -156,5 +168,5 @@ is all I want, f**k money, diamonds and bi**hes, don't need them.(Tyler, The Cre
 <div class="social"><a href="https://instagram.com/kochetkov26" target="_blank"><img src='icon1.png' width="96" height="94"></a>
     <a href="https://vk.com/id62157341" target="_blank"><img src='icon2.png' width="96" height="94"></a>
 </div>
-  
+	    </div>
 
