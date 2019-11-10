@@ -11,6 +11,7 @@ body {
 	color: #FFF;
 	background-image:src(wood%20_texture2.jpg);
 }
+<!-- Попытка реализовать адаптивный веб-сайт (неудачно)-->
 wrapper {
     width: 96%;    
     max-width: 920px;
@@ -18,7 +19,7 @@ wrapper {
     padding: 2%;
     } 
 
-    main {
+main {
         width: 60%;
         margin-right: 5%;
         float: left;
@@ -117,7 +118,6 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
       <li><a class="navigation" href="#photos">Мои фотографии</a></li>
       <li><a class="navigation" href="#career">Карьера</a></li>
       <li><a class="navigation" href="#myfavvideo">Мой любимый музыкальный клип</a></li>
-	    </div>
     <p> Green paper, gold teeth and pregnant golden retrievers
 is all I want, f**k money, diamonds and bi**hes, don't need them.(Tyler, The Creator)</p></ul>
   <!-- end .sidebar1 --></div>
