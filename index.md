@@ -10,7 +10,7 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #FFF;
-	background-image:url(wood%20_texture2.jpg);
+	background-image:src(wood%20_texture2.jpg);
 }
 
 ul, ol, dl { 
@@ -40,7 +40,7 @@ a:hover, a:active, a:focus {
 
 .container {
 	width: 1200px;
-	background-image: url(wood%20_texture2.jpg);
+	background-image: src(wood%20_texture2.jpg);
 	margin: 0 auto; 
 	overflow: hidden; 
 }
