@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -48,7 +47,7 @@ a:hover, a:active, a:focus {
 .sidebar1 {
 	float: left;
 	font:Verdana, Geneva, sans-serif;
-	width: 180px;
+	width: 160px;
 	background-color: #000;
 	color: #FFF;
 	padding-bottom: 10px;
@@ -147,7 +146,6 @@ is all I want, f**k money, diamonds and bi**hes, don't need them.</p></ul>
 <img src = 'photo3.jpg' name ='photo3' width ="200" height="250" />
 <img src= 'photo4.jpg' name ='photo4' width="200" height="250" />
 <section id="career">
-    </p>
     <h2>Карьера</h2>
     <p>Моя карьера еще скромная и достаточно тривиальна. Я только начал свою карьеру. Когда о ней будет что рассказать, то этот текст будет больше.</p>
     <section id="myfavvideo">
@@ -158,8 +156,5 @@ is all I want, f**k money, diamonds and bi**hes, don't need them.</p></ul>
 <div class="social"><a href="https://instagram.com/kochetkov26" target="_blank"><img src='icon1.png' width="96" height="94"></a>
     <a href="https://vk.com/id62157341" target="_blank"><img src='icon2.png' width="96" height="94"></a>
 </div>
-    <!-- end .content --></div>
-  <!-- end .container --></div>
-</body>
-</html>
+  
 
