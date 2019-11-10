@@ -117,7 +117,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
       <li><a class="navigation" href="#photos">Мои фотографии</a></li>
       <li><a class="navigation" href="#career">Карьера</a></li>
       <li><a class="navigation" href="#myfavvideo">Мой любимый музыкальный клип</a></li>
-    
+	    </div>
     <p> Green paper, gold teeth and pregnant golden retrievers
 is all I want, f**k money, diamonds and bi**hes, don't need them.(Tyler, The Creator)</p></ul>
   <!-- end .sidebar1 --></div>
@@ -168,5 +168,4 @@ is all I want, f**k money, diamonds and bi**hes, don't need them.(Tyler, The Cre
 <div class="social"><a href="https://instagram.com/kochetkov26" target="_blank"><img src='icon1.png' width="96" height="94"></a>
     <a href="https://vk.com/id62157341" target="_blank"><img src='icon2.png' width="96" height="94"></a>
 </div>
-	    </div>
 
