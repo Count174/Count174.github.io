@@ -66,7 +66,6 @@ a:hover, a:active, a:focus {
 	padding-bottom: 10px;
 }
 .content {
-
 	padding: 10px 0;
 	width: 980px;
 	float: left;
