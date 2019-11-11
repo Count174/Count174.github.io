@@ -5,13 +5,13 @@
 <style type="text/css">
 <!--
 body {
-	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+        font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	margin: 0;
 	padding: 0;
 	color: #FFF;
 	background-image:src(wood%20_texture2.jpg);
 }
-<!-- Попытка реализовать адаптивный веб-сайт (неудачно)-->
+<!-- Попытка реализовать адаптивный веб-сайт -->
 wrapper {
     width: 96%;    
     max-width: 920px;
@@ -75,8 +75,7 @@ a:hover, a:active, a:focus {
 	padding: 0 15px 15px 40px;
 }
 ul.nav {
-	list-style: none;
-	border-top: 1px solid #666; 
+	list-style: none; 
 	margin-bottom: 15px;
 }
 ul.nav li {
@@ -103,7 +102,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 	font-size: 1px;
 	line-height: 0px;
 }
--->
+
 </style></head>
 
 <body background="wood _texture2.jpg" tracingsrc="wood _texture2.jpg" tracingopacity="100">
