@@ -118,8 +118,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
       <li><a class="navigation" href="#photos">Мои фотографии</a></li>
       <li><a class="navigation" href="#career">Карьера</a></li>
       <li><a class="navigation" href="#myfavvideo">Мой любимый музыкальный клип</a></li>
-    <p> Green paper, gold teeth and pregnant golden retrievers
-is all I want, f**k money, diamonds and bi**hes, don't need them.(Tyler, The Creator)</p></ul>
+    <p> Focus on the inner me, never on the enemy.(Big Sean)</p></ul>
   <!-- end .sidebar1 --></div>
   <div class="content">
   <section id="aboutme">
