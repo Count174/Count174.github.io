@@ -81,7 +81,7 @@ ul.nav {
 	margin-bottom: 15px;
 }
 ul.nav li {
-	border-bottom: 2px solid #666;
+	border-bottom: 1px solid #666;
 }
 ul.nav a, ul.nav a:visited { 
 	padding: 5px 5px 5px 15px;
