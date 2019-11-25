@@ -103,9 +103,9 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 	line-height: 0px;
 }
 .mystyle {
-  width: 300px;
+  width: 160px;
   height: 50px;
-  background-color: black;
+  background-color: blue;
   color: white;
   font-size: 25px;
 }
