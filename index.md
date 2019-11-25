@@ -118,6 +118,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
       <li><a class="navigation" href="#myfavvideo">Мой любимый музыкальный клип</a></li>
     <p> Focus on the inner me, never on the enemy. (Big Sean)</p>
 	    <p> Click me to check my 1st HomeWork </p>
+	    <button onclick="myFunction()">Check it</button>
 <div id = "myHomeWork">
 I am Kirill's HW
 	    </div>
