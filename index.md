@@ -102,7 +102,13 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 	font-size: 1px;
 	line-height: 0px;
 }
-
+.mystyle {
+  width: 300px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  font-size: 25px;
+}
 </style></head>
 
 <body background="wood _texture2.jpg" tracingsrc="wood _texture2.jpg" tracingopacity="100">
