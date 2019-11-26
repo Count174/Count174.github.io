@@ -145,19 +145,23 @@ I am Kirill's HW part 2
 	    </div>
 
 <script> 
-	console.time("Execution time took");
+	
 function myFunction() {
+console.time("Execution time took");
 document.getElementById("myHomeWork").classList.add("mystyle");
-}
 console.timeEnd("Execution time took");
+}
+
 </script>
 
 <script>
-console.time("Execution time part 2(className) took");
+	
 function Homework() {
+console.time("Execution time part 2(className) took");
 document.getElementById("myHomeWork2").className = "mystyle1";
-}
 console.timeEnd("Execution time part 2(className) took");
+}
+
 </script>
 	  
 </ul>
