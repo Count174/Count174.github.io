@@ -139,14 +139,14 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 I am Kirill's HW
 	    </div>
 	<p> Click me to check my 1st Homework part 2 </p>
-	<button onclick="myFunction1()">Check it part 2</button>
+	<button onclick="Homework()">Check it part 2</button>
 <div id = "myHomeWork2">
 I am Kirill's HW part 2
 	    </div>
 
 <script> 
 	console.time("Execution time took");
-function myFunction() {
+function Homework() {
 document.getElementById("myHomeWork").classList.add("mystyle");
 }
 console.timeEnd("Execution time took");
