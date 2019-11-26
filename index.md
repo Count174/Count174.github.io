@@ -154,7 +154,7 @@ console.timeEnd("Execution time took");
 
 <script>
 console.time("Execution time part 2(className) took");
-function myFunction() {
+function myFunction1() {
 document.getElementById("myHomeWork2").className("mystyle1");
 }
 console.timeEnd("Execution time part 2(className) took");
