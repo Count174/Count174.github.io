@@ -146,7 +146,7 @@ I am Kirill's HW part 2
 
 <script> 
 	console.time("Execution time took");
-function Homework() {
+function myFunction() {
 document.getElementById("myHomeWork").classList.add("mystyle");
 }
 console.timeEnd("Execution time took");
@@ -154,7 +154,7 @@ console.timeEnd("Execution time took");
 
 <script>
 console.time("Execution time part 2(className) took");
-function myFunction1() {
+function Homework() {
 document.getElementById("myHomeWork2").className("mystyle1");
 }
 console.timeEnd("Execution time part 2(className) took");
