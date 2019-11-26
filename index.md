@@ -137,7 +137,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 	    <button onclick="myFunction()">Check it</button>
 <div id = "myHomeWork">
 I am Kirill's HW
-	    </div>
+	    //</div>//
 	<p> Click me to check my 1st Homework part 2 </p>
 	<button onclick="myFunction1()">Check it part 2</button>
 <div id = "myHomeWork2">
