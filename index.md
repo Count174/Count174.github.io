@@ -141,7 +141,7 @@ I am Kirill's HW
 	<p> Click me to check my 1st Homework part 2 </p>
 	<button onclick="myFunction1()">Check it part 2</button>
 <div id = "myHomeWork2">
-I am Kiril''s HW part 2
+I am Kirill's HW part 2
 	    </div>
 
 <script> 
@@ -154,7 +154,7 @@ console.timeEnd("Execution time took");
 
 <script>
 console.time("Execution time part 2(className) took");
-function myFunction1() {
+function myFunction() {
 document.getElementById("myHomeWork2").className("mystyle1");
 }
 console.timeEnd("Execution time part 2(className) took");
