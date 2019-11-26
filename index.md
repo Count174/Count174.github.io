@@ -109,6 +109,15 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
   color: white;
   font-size: 25px;
 }
+
+}
+.mystyle1 {
+  width: 160px;
+  height: 70px;
+  background-color: green;
+  color: black;
+  font-size: 25px;
+}
 </style></head>
 
 <body background="wood _texture2.jpg" tracingsrc="wood _texture2.jpg" tracingopacity="100">
@@ -128,6 +137,11 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 <div id = "myHomeWork">
 I am Kirill's HW
 	    </div>
+	<p> Click me to check my 1st Homework part 2 </p>
+	<button onclick="myFunction1()">Check it part 2</button>
+<div id = "myHomeWork2">
+I am Kiril''s HW part 2
+	    </div>
 
 <script> 
 	console.time("Execution time took");
@@ -135,7 +149,16 @@ function myFunction() {
 document.getElementById("myHomeWork").classList.add("mystyle");
 }
 console.timeEnd("Execution time took");
-</script>	  
+</script>
+
+<script>
+console.time("Execution time part 2(className) took");
+function myFunction1() {
+document.getElementByID("myHomeWork2").className("mystyle1");
+}
+console.timeEnd("Execution time part2(className) took");
+</script>
+	  
 </ul>
   <!-- end .sidebar1 --></div>
   <div class="content">
