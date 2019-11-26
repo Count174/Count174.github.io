@@ -110,7 +110,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
   font-size: 25px;
 }
 
-}
+
 .mystyle1 {
   width: 160px;
   height: 70px;
@@ -118,6 +118,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
   color: black;
   font-size: 25px;
 }
+
 </style></head>
 
 <body background="wood _texture2.jpg" tracingsrc="wood _texture2.jpg" tracingopacity="100">
