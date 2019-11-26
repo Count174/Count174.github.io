@@ -104,7 +104,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 }
 .mystyle {
   width: 160px;
-  height: 50px;
+  height: 70px;
   background-color: blue;
   color: white;
   font-size: 25px;
@@ -130,9 +130,11 @@ I am Kirill's HW
 	    </div>
 
 <script> 
+	console.time("Execution time took");
 function myFunction() {
 document.getElementById("myHomeWork").classList.add("mystyle");
 }
+console.timeEnd("Execution time took");
 </script>	  
 </ul>
   <!-- end .sidebar1 --></div>
